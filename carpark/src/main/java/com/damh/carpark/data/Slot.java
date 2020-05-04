@@ -12,7 +12,7 @@ import javax.persistence.Table;
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
 
-@ApiModel(description = "wololo")
+@ApiModel(description = "Slot")
 @Entity
 @Table(name = "Slot")
 public class Slot {
